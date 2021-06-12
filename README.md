@@ -1,3 +1,23 @@
+Building Netflix from Scratch Using React (Custom Hooks, Context, Firebase, Compound & Styled Components).
+
+A Netflix clone was built using React (Custom Hooks, Context), Firebase & Styled Components. I have built the following pages within this application: sign in, sign up, browse & lastly the homepage. There are four different pages, some using protected routes with auth listeners. Firebase firestore handles all the data and that data is retrieved using a custom hook; authentication is used on all pages, which is handled by Firebase as well.
+
+home page
+![image](https://user-images.githubusercontent.com/34640475/121765946-20ac4780-cb6c-11eb-918f-caee2b9f4582.png)
+
+signin page
+![image](https://user-images.githubusercontent.com/34640475/121765994-8bf61980-cb6c-11eb-850b-548fb95007a5.png)
+
+signup page
+![image](https://user-images.githubusercontent.com/34640475/121766013-aaf4ab80-cb6c-11eb-9e9f-320d8e120446.png)
+
+browse page
+![image](https://user-images.githubusercontent.com/34640475/121766027-d11a4b80-cb6c-11eb-832c-0f35687935ce.png)
+![image](https://user-images.githubusercontent.com/34640475/121766034-e1322b00-cb6c-11eb-9e1a-4b73982e47c9.png)
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
